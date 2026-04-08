@@ -19,4 +19,4 @@ client.once("ready", () => {
   console.log("Successful Login:", client.user.tag);
 });
 
-client.login('MTQ2NDA2ODE1Mjk5NTQ3OTYzNQ.GKkvSi.nGUgnBxDQuYnC3EioXAsC1mXs4yfh8iNbe6Ht4');
+client.login('MTQ2NDA2ODE1Mjk5NTQ3OTYzNQ.GMU65F.uoV11PgkpLSl1KPCP62HXe7qt7X6HLmv_ATqas');
