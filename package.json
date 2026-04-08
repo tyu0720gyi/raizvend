@@ -1,0 +1,14 @@
+{
+  "name": "discord-vending-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^14.26.2",
+    "dotenv": "^16.6.1",
+    "pushbullet": "^2.4.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}

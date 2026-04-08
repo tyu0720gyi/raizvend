@@ -1,0 +1,12 @@
+{
+  "products": [
+    { "id": 1, "name": "하드밴제거기 하루권", "category": "hardban_remover", "price": 5000, "codes": [] },
+    { "id": 2, "name": "하드밴제거기 한달권", "category": "hardban_remover", "price": 20000, "codes": [] },
+    { "id": 3, "name": "하드밴제거기 영구권", "category": "hardban_remover", "price": 50000, "codes": [] },
+    { "id": 4, "name": "NO", "category": "account_recovery", "price": 10000, "codes": [] },
+    { "id": 5, "name": "NO", "category": "account_recovery", "price": 25000, "codes": [] },
+    { "id": 6, "name": "NO", "category": "etc", "price": 3000, "codes": [] }
+  ],
+  "userBalances": {},
+  "purchaseHistory": {}
+}
